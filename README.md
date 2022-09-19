@@ -57,4 +57,20 @@ By using job arrays and creating a loop in the shell
 <img width="225" alt="image" src="https://user-images.githubusercontent.com/38839459/191090904-ac2b1bfa-b2b8-4476-9b15-82ea3ccd7700.png">
 
 
+## Conclusion and Reflection
+
+<pre>
+
+* Submitted several jobs on the GPU partition. 
+* In each job I trained the model with 1500 epoch
+* Each job took about 40 mins on GPU  (about 6 hours on CPU partition) 
+* By observing the jobs on the cluster each time 12 jobs was running in parallel.
+* Whole of the experiments took about 5 days in the cluster which is almost equal to the 60 days in personal laptop.
+* Could use the cluster to find the best parameters almost 10 times faster than using my own resource.
+* Found clusters recourses very useful and and they are time saving for doing experiments 
+
+
+
+</pre>
+
 
