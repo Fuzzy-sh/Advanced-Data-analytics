@@ -42,3 +42,19 @@ We used Word2vec model (Rong, 2016) that that capture the semantic similarities 
 ![image](https://user-images.githubusercontent.com/38839459/191090263-d6c7a20b-8980-4978-86cf-5cd8c280a238.png)
 
 
+## Results and cluster performance
+<pre>
+
+By using job arrays and creating a loop in the shell
+* Submitted several jobs on the GPU partition. 
+* Each job had unique input to do hyper parameter optimization
+* We have successfully received the results for about  200 jobs
+
+</pre>
+
+<img width="278" alt="image" src="https://user-images.githubusercontent.com/38839459/191090854-be5ac47e-826d-4a54-9dba-f11c17888bac.png">
+
+<img width="225" alt="image" src="https://user-images.githubusercontent.com/38839459/191090904-ac2b1bfa-b2b8-4476-9b15-82ea3ccd7700.png">
+
+
+
