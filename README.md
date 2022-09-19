@@ -7,11 +7,11 @@
 ## Aim and motivation
 
 <pre>
-If we can predict homeless people’s behaviour, we will able to provide help and services with these people. 
-Among all methods, machine learning techniques have been proved that they are able to improve the decision making in the health-care sector (Chen et al., 2019). 
-Session-based recommenders  are useful when we have user interaction history  that they can learn based on the short-term interaction (Wang et al., 2022). These methods are emerging in the healthcare system to recommend the next-treatment recommendation (Haas, n.d.). 
-Our Aim is to predict the event within a session.  
-We used Word2vec model (Rong, 2016) that that capture the semantic similarities to predict the next event.
+* If we can predict homeless people’s behaviour, we will able to provide help and services with these people. 
+* Among all methods, machine learning techniques have been proved that they are able to improve the decision making in the health-care sector (Chen et al., 2019). 
+* Session-based recommenders  are useful when we have user interaction history  that they can learn based on the short-term interaction (Wang et al., 2022). These methods are emerging in the healthcare system to recommend the next-treatment recommendation (Haas, n.d.). 
+* Our Aim is to predict the event within a session.  
+* We used Word2vec model (Rong, 2016) that that capture the semantic similarities to predict the next event.
 
 </pre>
 
