@@ -32,7 +32,7 @@ We used Word2vec model (Rong, 2016) that that capture the semantic similarities 
 
 ![image](https://user-images.githubusercontent.com/38839459/191089929-5d9e7ce3-2825-409c-8c3c-cf475ec8e6a8.png)
 
-## To deal with imbalanced Classes, we used Weighted Random Sampler:
+## To deal with imbalanced Classes, we used Weighted Random Sampler:
 <img width="595" alt="image" src="https://user-images.githubusercontent.com/38839459/191090177-efa4060d-0c39-4ce9-aa14-75a33ad5d2bf.png">
 
 ![image](https://user-images.githubusercontent.com/38839459/191090189-21653a44-29a3-44f7-a3f4-3da744a32a97.png)
